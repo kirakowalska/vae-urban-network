@@ -3,7 +3,10 @@ notebooks/.ipynb_checkpoints
 reports/
 venv/
 *.docx
-models/
 src/__pycache__/
 src/data/__pycache__/
 .idea/
+*.png
+*.pickle
+*.torch
+*.log
